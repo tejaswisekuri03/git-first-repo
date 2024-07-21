@@ -1,2 +1,2 @@
-print("Hello welcome to my first repo")
+print("Gayathri is a cool programmer")
  # type: ignore
